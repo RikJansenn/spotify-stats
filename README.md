@@ -1,2 +1,6 @@
-# spotify-stats
-Some fun spotify statisics which I couldn't easily find elsewhere
+# Spotify Stats
+Just some fun Spotify statistics :)
+
+Total amount of albums (and artists) saved
+Albums in library per year
+More?
